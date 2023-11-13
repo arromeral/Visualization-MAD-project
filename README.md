@@ -37,7 +37,7 @@ The project is based on three data sources obtained during a previous ETL projec
   - Explore the source code to understand the ETL process and data source integration.
   - Ensure you have the necessary libraries to replicate the process in your environment.
 
-## Dashboard Storytelling: Exploring Adolfo Suárez Madrid-Barajas Airport Flights
+## General Analysis: Exploring Adolfo Suárez Madrid-Barajas Airport Flights
 ### Welcome and Temporal Filter
 As we embark on this journey, our first stop is the temporal filter, located prominently at the top. A dynamic slider spanning from November 1, 2022, to October 31, 2023, sets the stage for our exploration through a year's worth of flight data.
 <p align="center">
@@ -89,3 +89,29 @@ As we reach the culmination of our exploration, encounter a tree map showcasing 
 
 ### Conclusion
 This dynamic dashboard invites you to not only observe but actively engage with the data. Your clicks create ripples, revealing interconnected narratives within the bustling world of flights from Adolfo Suárez Madrid-Barajas Airport. Feel free to interact with the filters, charts, and maps to uncover hidden stories within the data. Bon voyage!
+
+## Weather-Flight Dynamics Unleashed
+### Welcome and Temporal Filter
+Embark on a dynamic journey exploring the intricate relationship between meteorological conditions and flight performance. The adventure begins by setting the temporal scope with the slider, spanning from November 1, 2022, to October 31, 2023.
+
+### Weather Parameters: Temperature, Wind, and Gusts
+Your exploration takes flight with interactive sliders to the left. Tweak the temperature, wind speed, and gust speed ranges to witness real-time adjustments in the heart of the dashboard. The charts and labels dynamically respond, immersing you in the ever-changing interplay of weather and flights.
+
+### Meteorological Conditions Filter
+In the center stage, explore 15 meteorological conditions, each a portal to a unique facet of the weather-flight dynamic. Click on a condition, and watch as the donut chart and accompanying labels transform instantly, offering a personalized glimpse into how specific weather scenarios impact arrival statuses.
+
+### Weather Impact: Unveiling the Storm
+As you interact, observe the profound influence of adverse weather conditions. High wind speeds and gusts emerge as significant players in the flight performance story. Click through the meteorological conditions to uncover the intricate dance between weather adversity and flight delays. The charts vividly portray the impact of challenging weather scenarios, providing insights into delays and disruptions. 
+The central donut chart becomes a canvas of interactivity. Click on individual slices to isolate and examine specific arrival statuses. The labels alongside dynamically shift to reflect the percentage of flights facing delays exceeding 30 and 60 minutes. Immerse yourself in the live narrative, tailored to your chosen meteorological conditions.
+
+### Daily Flight Count Trends
+Gaze to the left, where the label unveils the total number of flights during the selected period. Interact with the temporal graph illustrating daily flight counts. Witness the ripple effect of your interactions across the entire dashboard as you focus on specific temperature, wind, and gust ranges.
+
+### Punctuality Insights: Eurocontrol Data
+Descend to the bottom, where the temporal graph unveils the percentage of daily flights departing punctually. Click on meteorological conditions in the bar chart to unveil the correlation between specific weather scenarios and departure punctuality. Every click transforms the narrative, empowering you to tailor the story to your unique perspective.
+
+### Interactive Mastery
+This dashboard is your canvas. Every adjustment to sliders, every click on meteorological conditions, crafts a bespoke narrative. Become the master of the story, unraveling the mysteries of weather-flight dynamics with every interaction.
+
+### Conclusion
+As you navigate this immersive experience, remember that every interaction tells a story. Immerse yourself, experiment, and unveil the secrets of meteorological insights and flight status revelations. Your journey, your narrative—unfold it with every click!
