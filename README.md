@@ -1,10 +1,10 @@
-# Visualization-MAD-project
+# 🛫📊Visualization-MAD-project📊🛫
 <p align="center">
   <img width="1000" height="300" src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/92d57008-3786-48a3-aa5d-2a64b90d1f03">
 </p>
 
 ## Description & Contents
-This repository contains a data visualization project created using Power BI, focusing on analyzing flights departures from Adolfo Suárez Madrid-Barajas Airport over the past year. The visualization consists of two interactive dashboards providing detailed insights into various aspects of flights, correlating flight data, METAR weather reports, and EUROCONTROL airport statistics.
+This repository contains a data visualization project created using Power BI, focusing on analyzing flights departures from Adolfo Suárez Madrid-Barajas Airport over the last year. The visualization consists of two interactive dashboards providing detailed insights into various aspects of flights; correlating flight data, METAR weather reports, and EUROCONTROL airport statistics.
 
 ### [**Key Features**](https://github.com/arromeral/Visualization-MAD-project/blob/main/power_bi/mad_flights.pdf):
 
@@ -31,7 +31,7 @@ The project is based on three data sources obtained during a previous ETL projec
 ### Usage Instructions:
  1. [**Power BI**](https://github.com/arromeral/Visualization-MAD-project/blob/main/power_bi/mad_flights.pbix)
 
-  - Import the data into Power BI to explore the dashboards interactively.
+  - Download and import the documents into Power BI to explore the dashboards interactively.
   - Analyze destinations, airlines, days of the week, and relationships between delays and weather conditions.
      
  2. [**Code & ETL**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main)
@@ -51,11 +51,10 @@ Direct your attention to the next feature — a filter showcasing the top 10 air
   <img src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/80c1ee9b-c03f-4526-a8d6-c3dd40824fc1">
 </p>
 
-
 ### Key Metrics at a Glance
 On the left side, four informative labels catch your eye, presenting essential metrics:
 
-- **Total Flights:** The overall count of flights during the selected period.
+- **Total Flights:** The overall count of flights under the selected filters.
 - **Number of Airlines:** A glimpse into the diversity of carriers operating from the airport.
 - **Number of Destination Cities:** Explore the reach of flights by uncovering the number of cities served.
 - **% Uninterrupted Flights:** Delve into the reliability of flights with the percentage of non-cancelled or diverted flights.
@@ -81,9 +80,8 @@ Descend further to find a temporal graph, capturing the daily ebb and flow of fl
   <img src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/da4c16c2-35a0-4466-85fa-ab1a20961ebb">
 </p>
 
-
 ### Further Insights: Weekday Tree Map and Global Map
-As we reach the culmination of our exploration, encounter a tree map showcasing flight distribution across the days of the week. Additionally, a world map lights up with destinations, creating a visual spectacle of global connectivity.Pinpoint busy days and quiet periods with a click. The global map, too, responds to your selections, illuminating the connectivity between Adolfo Suárez Madrid-Barajas Airport and destinations worldwide.
+As we reach the culmination of our exploration, encounter a tree map showcasing flight distribution across the days of the week. Additionally, a world map lights up with destinations, creating a visual spectacle of global connectivity. Pinpoint busy days and quiet periods with a click. The global map, too, responds to your selections, illuminating the connectivity between Adolfo Suárez Madrid-Barajas Airport and destinations worldwide.
 <p align="center">
   <img src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/31357fbf-0818-4443-9313-2f0582da94d8">
 </p>
