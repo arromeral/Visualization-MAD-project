@@ -6,7 +6,8 @@
 ## Description & Contents
 This repository contains a data visualization project created using Power BI, focusing on analyzing flights departures from Adolfo Suárez Madrid-Barajas Airport over the past year. The visualization consists of two interactive dashboards providing detailed insights into various aspects of flights, correlating flight data, METAR weather reports, and EUROCONTROL airport statistics.
 
-###[**Key Features**](https://github.com/arromeral/Visualization-MAD-project/blob/main/power_bi/mad_flights.pdf):
+### [**Key Features**](https://github.com/arromeral/Visualization-MAD-project/blob/main/power_bi/mad_flights.pdf):
+
 **1. General Analysis Dashboard:**
 
   - Explore popular destinations.
@@ -28,12 +29,12 @@ The project is based on three data sources obtained during a previous ETL projec
 - Flight statistics at Adolfo Suárez Madrid-Barajas Airport provided by EUROCONTROL.
    
 ### Usage Instructions:
- 1.[**Power BI**](https://github.com/arromeral/Visualization-MAD-project/blob/main/power_bi/mad_flights.pbix)
+ 1. [**Power BI**](https://github.com/arromeral/Visualization-MAD-project/blob/main/power_bi/mad_flights.pbix)
 
   - Import the data into Power BI to explore the dashboards interactively.
   - Analyze destinations, airlines, days of the week, and relationships between delays and weather conditions.
      
- 2.[**Code & ETL**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main)
+ 2. [**Code & ETL**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main)
   - Explore the source code to understand the ETL process and data source integration.
   - Ensure you have the necessary libraries to replicate the process in your environment.
 
@@ -133,3 +134,22 @@ This dashboard is your canvas. Every adjustment to sliders, every click on meteo
 
 ### Conclusion
 As you navigate this immersive experience, remember that every interaction tells a story. Immerse yourself, experiment, and unveil the secrets of meteorological insights and flight status revelations. Your journey, your narrative—unfold it with every click!
+
+## Bonus Section: Live Flight Visualization
+
+### Unveiling the Sky: Live Flight Animation
+In addition to the comprehensive insights provided by the main dashboards, i'm thrilled to present a special BONUS feature that takes your exploration to new heights. I've crafted a mesmerizing live flight visualization using the powerful Studio tool from Foursquare.
+
+https://github.com/arromeral/Visualization-MAD-project/assets/138980560/1a5a3293-77b1-4d8e-a6fa-8a52ec4f07c9
+
+### The Flight Journey Unfolded
+On October 31, 2023, take a virtual seat in the control tower and witness the departure of every flight from Adolfo Suárez Madrid-Barajas Airport. The animated map unfolds the flight paths, allowing you to track each aircraft as it soars towards its destination. This dynamic visualization offers a real-time experience akin to popular aviation tracking platforms like Flightradar24.
+
+### Harmonizing with Project Insights
+This bonus feature seamlessly integrates with the overarching narrative of the main project. As you've explored the relationships between meteorological conditions and flight statuses, this live flight map adds a captivating layer, allowing you to witness the culmination of these flights in real time. Immerse yourself in the synergy between weather dynamics, flight performance, and the live ballet of departures.
+
+### How to Access
+Visit [**this link**](https://studio.foursquare.com/public/cb363a0b-a11a-436d-9ecf-c848b70702d4/embed) to access the live flight visualization. Simply launch the animation, adjust settings, and explore the bustling skies above Adolfo Suárez Madrid-Barajas Airport. Marvel at the synchronicity between your project insights and the dynamic world of aviation.
+
+### Conclusion: Elevating Your Exploration
+This BONUS feature serves as a testament to the limitless possibilities of data visualization. As you explore the live flight map, we hope it not only enhances your understanding of flight dynamics but also elevates your overall experience with the project. Take off and enjoy this unique perspective on the culmination of flights departing from Adolfo Suárez Madrid-Barajas Airport.
