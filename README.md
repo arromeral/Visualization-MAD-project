@@ -58,7 +58,7 @@ On the left side, four informative labels catch your eye, presenting essential m
 - **Number of Airlines:** A glimpse into the diversity of carriers operating from the airport.
 - **Number of Destination Cities:** Explore the reach of flights by uncovering the number of cities served.
 - **% Uninterrupted Flights:** Delve into the reliability of flights with the percentage of non-cancelled or diverted flights.
-  <p align="center">
+<p align="center">
   <img src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/c2d960ce-406b-45c4-ae8c-3187a38107ea">
 </p>
 
