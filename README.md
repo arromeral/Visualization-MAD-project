@@ -6,7 +6,7 @@
 ## Description & Contents
 This repository contains a data visualization project created using Power BI, focusing on analyzing flights departures from Adolfo Suárez Madrid-Barajas Airport over the past year. The visualization consists of two interactive dashboards providing detailed insights into various aspects of flights, correlating flight data, METAR weather reports, and EUROCONTROL airport statistics.
 
-### Key Features:
+###[**Key Features**](https://github.com/arromeral/Visualization-MAD-project/blob/main/power_bi/mad_flights.pdf):
 **1. General Analysis Dashboard:**
 
   - Explore popular destinations.
@@ -20,24 +20,24 @@ This repository contains a data visualization project created using Power BI, fo
   - Analyze factors such as temperature, wind, and gusts in relation to delays.
   - Consider airport congestion and its impact on flight punctuality.
 
-### Data Sources:
+### [**Data Sources**](https://github.com/arromeral/Visualization-MAD-project/tree/main/data):
 The project is based on three data sources obtained during a previous ETL project:
 
-1. Detailed flight data, including information on airlines, schedules, statuses, and delays.
-2. METAR weather reports corresponding to the same period, linked to each flight.
-3. Flight statistics at Adolfo Suárez Madrid-Barajas Airport provided by EUROCONTROL.
+- Detailed flight data, including information on airlines, schedules, statuses, and delays.
+- METAR weather reports corresponding to the same period, linked to each flight.
+- Flight statistics at Adolfo Suárez Madrid-Barajas Airport provided by EUROCONTROL.
    
 ### Usage Instructions:
-**1. Power BI:**
+ 1.[**Power BI**](https://github.com/arromeral/Visualization-MAD-project/blob/main/power_bi/mad_flights.pbix)
 
   - Import the data into Power BI to explore the dashboards interactively.
   - Analyze destinations, airlines, days of the week, and relationships between delays and weather conditions.
      
-**2. Code and ETL:**
+ 2.[**Code & ETL**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main)
   - Explore the source code to understand the ETL process and data source integration.
   - Ensure you have the necessary libraries to replicate the process in your environment.
 
-## General Analysis: Exploring Adolfo Suárez Madrid-Barajas Airport Flights
+## General Analysis Dashboard: Exploring Adolfo Suárez Madrid-Barajas Airport Flights
 ### Welcome and Temporal Filter
 As we embark on this journey, our first stop is the temporal filter, located prominently at the top. A dynamic slider spanning from November 1, 2022, to October 31, 2023, sets the stage for our exploration through a year's worth of flight data.
 <p align="center">
