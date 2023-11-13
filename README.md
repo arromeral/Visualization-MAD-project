@@ -93,22 +93,40 @@ This dynamic dashboard invites you to not only observe but actively engage with 
 ## Weather-Flight Dynamics Unleashed
 ### Welcome and Temporal Filter
 Embark on a dynamic journey exploring the intricate relationship between meteorological conditions and flight performance. The adventure begins by setting the temporal scope with the slider, spanning from November 1, 2022, to October 31, 2023.
+<p align="center">
+  <img src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/096514ef-c5b1-4194-82d5-dbe96bf8b667">
+</p>
 
 ### Weather Parameters: Temperature, Wind, and Gusts
 Your exploration takes flight with interactive sliders to the left. Tweak the temperature, wind speed, and gust speed ranges to witness real-time adjustments in the heart of the dashboard. The charts and labels dynamically respond, immersing you in the ever-changing interplay of weather and flights.
+<p align="center">
+  <img src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/4201c577-73bf-4dcd-b4d2-fd2b1516de8e">
+</p>
 
 ### Meteorological Conditions Filter
 In the center stage, explore 15 meteorological conditions, each a portal to a unique facet of the weather-flight dynamic. Click on a condition, and watch as the donut chart and accompanying labels transform instantly, offering a personalized glimpse into how specific weather scenarios impact arrival statuses.
+<p align="center">
+  <img src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/2fdbae3e-5339-4d3e-954b-879e5cba174b">
+</p>
 
 ### Weather Impact: Unveiling the Storm
 As you interact, observe the profound influence of adverse weather conditions. High wind speeds and gusts emerge as significant players in the flight performance story. Click through the meteorological conditions to uncover the intricate dance between weather adversity and flight delays. The charts vividly portray the impact of challenging weather scenarios, providing insights into delays and disruptions. 
 The central donut chart becomes a canvas of interactivity. Click on individual slices to isolate and examine specific arrival statuses. The labels alongside dynamically shift to reflect the percentage of flights facing delays exceeding 30 and 60 minutes. Immerse yourself in the live narrative, tailored to your chosen meteorological conditions.
+<p align="center">
+  <img src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/cc317b2c-eff9-49e4-a8c6-608a226b58f3">
+</p>
 
 ### Daily Flight Count Trends
 Gaze to the left, where the label unveils the total number of flights during the selected period. Interact with the temporal graph illustrating daily flight counts. Witness the ripple effect of your interactions across the entire dashboard as you focus on specific temperature, wind, and gust ranges.
+<p align="center">
+  <img src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/905c43f2-f11a-47c8-9c83-54af77a33b7a">
+</p>
 
 ### Punctuality Insights: Eurocontrol Data
 Descend to the bottom, where the temporal graph unveils the percentage of daily flights departing punctually. Click on meteorological conditions in the bar chart to unveil the correlation between specific weather scenarios and departure punctuality. Every click transforms the narrative, empowering you to tailor the story to your unique perspective.
+<p align="center">
+  <img src="https://github.com/arromeral/Visualization-MAD-project/assets/138980560/af01b1a2-d1e7-4798-b737-f4cda80f8c21">
+</p>
 
 ### Interactive Mastery
 This dashboard is your canvas. Every adjustment to sliders, every click on meteorological conditions, crafts a bespoke narrative. Become the master of the story, unraveling the mysteries of weather-flight dynamics with every interaction.
